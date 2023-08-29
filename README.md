@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @joekahuni
-- 👀 I’m interested in Fullstack Development and Machine Learning...
-- 🌱 I’m currently learning Formio and Prosemirror
-- 💞️ I’m looking to collaborate on Fullstack Development, Machine Learning, AI
-- 📫 How to reach me @_joemwangi on Twitter
+![jkahuni's Stats](https://github-readme-stats.vercel.app/api?username=jkahuni&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<!---
-joekahuni/joekahuni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![jkahuni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jkahuni&theme=vue-dark&hide_border=true)
